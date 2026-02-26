@@ -164,7 +164,7 @@ p.animate {
 }
 
 .card.flipped figcaption {
-  transform: rotateY (360deg);
+  transform: rotateY(360deg);
 }
 
 
